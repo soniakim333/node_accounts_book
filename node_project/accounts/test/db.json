@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "the weather is ok~~"
+    },
+    {
+      "id": 2,
+      "title": "the weather is ok~~"
+    }
+  ],
+  "users": {}
+}

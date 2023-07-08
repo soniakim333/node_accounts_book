@@ -1,0 +1,28 @@
+{
+  "accounts": [
+    {
+      "id": "0qvFMDMRW",
+      "title": "2024年日本北部冬日休假旅行",
+      "time": "2024-12-15",
+      "type": "-1",
+      "account": "20000",
+      "remarks": "不省钱之旅"
+    },
+    {
+      "id": "usiS8zuXm",
+      "title": "2024法国志愿者日消费",
+      "time": "2024-07-16",
+      "type": "-1",
+      "account": "8000",
+      "remarks": "每日住宿，买纪念品，happy，慈善，改善世界等等"
+    },
+    {
+      "id": "QcJxsWsbP",
+      "title": "Work in 2024",
+      "time": "2024-08-01",
+      "type": "1",
+      "account": "25000",
+      "remarks": "年薪30多万税后工资，前端或者工程师或者人工智能"
+    }
+  ]
+}
